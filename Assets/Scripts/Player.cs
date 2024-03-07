@@ -8,8 +8,13 @@ public class Player : MonoBehaviour
     [SerializeField]
     //private float moveSpeed = 5f;
     // Update is called once per frame
+    void Start()
+    {
+        Debug.Log("Player Start");
+    }
     void Update()
     {
+
         // float horizontalInput = Input.GetAxisRaw("Horizontal");
         // float verticalInput = Input.GetAxisRaw("Vertical");
         // Vector3 moveTo = new Vector3(horizontalInput, 0, 0);
