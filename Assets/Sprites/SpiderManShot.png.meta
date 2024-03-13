@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ff5d2321fe47f426b80384905b2a6d10
+guid: 63ee3250d19e8409383b358c9da80c42
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 28
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -136,13 +136,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: recycle_items_0
+      name: SpiderManShot_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2
-        width: 15
-        height: 45
+        x: 44
+        y: 466
+        width: 218
+        height: 270
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf53de380a99142e3843c9eeb70ab19c
-      internalID: 825098667
+      spriteID: 6f452677270234cea85772ca1a8e3822
+      internalID: 171232447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: recycle_items_1
+      name: SpiderManShot_1
       rect:
         serializedVersion: 2
-        x: 19
-        y: 2
-        width: 39
-        height: 55
+        x: 346
+        y: 466
+        width: 218
+        height: 270
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adee3119b0b1f48d2a54d6325430f6b8
-      internalID: 1387230462
+      spriteID: 71b930c5320d3411a9b05d2a60c44a87
+      internalID: -1044777012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: recycle_items_2
+      name: SpiderManShot_2
       rect:
         serializedVersion: 2
-        x: 60
-        y: 2
-        width: 36
-        height: 44
+        x: 660
+        y: 468
+        width: 218
+        height: 270
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +192,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41c368765330e4c1d8482bcbf40190fc
-      internalID: -1503786753
+      spriteID: 1b9315d3a217e46d1960e2c6f61a386b
+      internalID: 1313523293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: recycle_items_3
+      name: SpiderManShot_3
       rect:
         serializedVersion: 2
-        x: 98
-        y: 2
-        width: 51
-        height: 48
+        x: 760
+        y: 688
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,124 +213,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c82384f4a01b4b3783821d4b613eb9f
-      internalID: -92996411
+      spriteID: abe24dd9091d7446ebb7588ec586da76
+      internalID: 1019117992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: recycle_items_4
+      name: SpiderManShot_4
       rect:
         serializedVersion: 2
-        x: 151
-        y: 2
-        width: 53
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80e9651a9e80945e78c7ceb3702f5dd5
-      internalID: -568330747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: recycle_items_5
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 2
-        width: 35
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ee552f64e8524e56818466efe30d8f7
-      internalID: -469465745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: recycle_items_6
-      rect:
-        serializedVersion: 2
-        x: 243
-        y: 2
-        width: 17
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3a9c5634ac21440297e968195f3c153
-      internalID: 1673542411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: recycle_items_7
-      rect:
-        serializedVersion: 2
-        x: 262
-        y: 2
-        width: 23
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75522ba4bda2e43f08142240dd564960
-      internalID: 858217453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: recycle_items_8
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 2
-        width: 16
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ac37aa693bb54868b31731bab85239b
-      internalID: 306311292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: recycle_items_9
-      rect:
-        serializedVersion: 2
-        x: 305
-        y: 2
-        width: 23
+        x: 254
+        y: 572
+        width: 74
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -339,82 +234,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50051eb32f5a14ff191d27954790e2a9
-      internalID: -465060166
+      spriteID: d9997edc0cb884267b153c444befcc9d
+      internalID: -596709986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: recycle_items_10
+      name: SpiderManShot_5
       rect:
         serializedVersion: 2
-        x: 330
-        y: 2
-        width: 21
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e8ba71dd413142dcb6c563f7b2d83cb
-      internalID: -973490597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: recycle_items_11
-      rect:
-        serializedVersion: 2
-        x: 353
-        y: 2
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ca73b553d0db4879b56a5331dee7d99
-      internalID: -660728623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: recycle_items_12
-      rect:
-        serializedVersion: 2
-        x: 373
-        y: 2
-        width: 28
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08ae617fc76bb4c4a846c7bc6e0bed87
-      internalID: -884931480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: recycle_items_13
-      rect:
-        serializedVersion: 2
-        x: 403
-        y: 2
-        width: 60
+        x: 562
+        y: 572
+        width: 72
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -423,20 +255,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a7ddd6e623754eac91de91cbc661ddf
-      internalID: -1192289285
+      spriteID: 07cc8a2cea7ee4f39b4928bcccfd8c92
+      internalID: 1024732799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: recycle_items_14
+      name: SpiderManShot_6
       rect:
         serializedVersion: 2
-        x: 465
-        y: 2
-        width: 29
-        height: 26
+        x: 1425
+        y: 551
+        width: 458
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -444,20 +276,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c98661fe6698640949417346e34da1a7
-      internalID: -1877719392
+      spriteID: daec7a23bc5a640739bb16f9ca64c559
+      internalID: -1874147751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: recycle_items_15
+      name: SpiderManShot_7
       rect:
         serializedVersion: 2
-        x: 496
-        y: 2
-        width: 17
-        height: 40
+        x: 44
+        y: 80
+        width: 208
+        height: 206
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,8 +297,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f196fc537f5d64a69b7d30da27ef221b
-      internalID: -327561797
+      spriteID: 84560778cf5234cd599fd74b4b4a5d74
+      internalID: -1422875991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderManShot_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 186
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93b2607d41524453ba8f919a0cb799d
+      internalID: -224842100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderManShot_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 80
+        width: 218
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387f32d431fac4877a416b95ea1d3821
+      internalID: 803741705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderManShot_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 186
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48075e986733e4a64a7ca63deda6fa21
+      internalID: -21798472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderManShot_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 80
+        width: 659
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5d46f690894422cb0f0416f17064e2
+      internalID: 2077759938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderManShot_12
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 165
+        width: 458
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f3eca32de3c47bda5bcd02d53e8d0e
+      internalID: -143562977
       vertices: []
       indices: 
       edges: []
@@ -482,22 +419,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      recycle_items_0: 825098667
-      recycle_items_1: 1387230462
-      recycle_items_10: -973490597
-      recycle_items_11: -660728623
-      recycle_items_12: -884931480
-      recycle_items_13: -1192289285
-      recycle_items_14: -1877719392
-      recycle_items_15: -327561797
-      recycle_items_2: -1503786753
-      recycle_items_3: -92996411
-      recycle_items_4: -568330747
-      recycle_items_5: -469465745
-      recycle_items_6: 1673542411
-      recycle_items_7: 858217453
-      recycle_items_8: 306311292
-      recycle_items_9: -465060166
+      SpiderManShot_0: 171232447
+      SpiderManShot_1: -1044777012
+      SpiderManShot_10: -21798472
+      SpiderManShot_11: 2077759938
+      SpiderManShot_12: -143562977
+      SpiderManShot_2: 1313523293
+      SpiderManShot_3: 1019117992
+      SpiderManShot_4: -596709986
+      SpiderManShot_5: 1024732799
+      SpiderManShot_6: -1874147751
+      SpiderManShot_7: -1422875991
+      SpiderManShot_8: -224842100
+      SpiderManShot_9: 803741705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -6,6 +6,15 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [SerializeField]
+    private GameObject weapon;
+    
+    [SerializeField]
+    private Transform shootTransform;
+
+    [SerializeField]
+    private float shootInterval = 0.05f;
+
+    private float lastShootTime = 0f;
     //private float moveSpeed = 5f;
     // Update is called once per frame
     void Start()
@@ -31,10 +40,22 @@ public class Player : MonoBehaviour
         //     transform.Translate(moveTo);
         // }
 
-        //mouse
+        //mouse 
         Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         float toX = Mathf.Clamp(mousePos.x, -2.35f, 2.35f);
         transform.position = new Vector3(toX, transform.position.y, transform.position.z);
+
+        shoot();
+
+    }
+
+    void shoot()
+    {
+        if(Time.time - lastShootTime > shootInterval)
+        {
+            Instantiate(weapon, shootTransform.position, Quaternion.identity);
+            lastShootTime = Time.time;
+        }
 
     }
 }
