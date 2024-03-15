@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,7 +134,5677 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Hurk_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1927
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60d8fe6005847a89be70c0afecffe4
+      internalID: 384300851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1926
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da869285100457198f7eeae1cdea0d
+      internalID: -68190962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1927
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb613c69208764995b3e4645cfdadfe5
+      internalID: 170357844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1927
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5502607f0544d45c0833de62cc960754
+      internalID: 810918757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1927
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033db3385a20421a8b40e5bb90b46aa
+      internalID: -342226165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1927
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330366020f52246f59cfeb29c83b9f7e
+      internalID: -1205554598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1927
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc6b5924f8547c1993af5dcc4caf38
+      internalID: 965252848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_7
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1927
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f42f9e6f7124562b668f4a6ddf491f
+      internalID: -1184598869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1927
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6afe4e303334334b5d887f372e22a7
+      internalID: -1336626506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_9
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1925
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db250580ee8324443952a1126f9d4a72
+      internalID: -116713650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_10
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1925
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180ca282aed994a9db39f0f56a4432cd
+      internalID: 1141352296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_11
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1925
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c08430639bf4b6cac95aa4d142ebcb
+      internalID: 692725073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_12
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1926
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2df54b2c47fa4860a87a770e93d3a00
+      internalID: -1005227954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_13
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1926
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a31beac73ae4733aedf0b989ac0a14
+      internalID: 1445443943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_14
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1925
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdf71165be42498db87fe95e3bfd756
+      internalID: -1232332813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_15
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1925
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd994e1098294c76aa2aad9b9a30099
+      internalID: -25886202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1797
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48403d11ccd094cbf857950cdfd591de
+      internalID: 1324275158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1796
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa53864cca34aef839f4a8f6a7efae
+      internalID: -1089396772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1796
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c4c5a6df424a7daf5c93faca5bfdd
+      internalID: -1160933350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1797
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ad4d854780b44c1aa36d510a351d51
+      internalID: 68815714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_20
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1797
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391586b47a39d409e97407fbe881daef
+      internalID: 1089018040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1796
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeeabf5cfd6940839c9b42e3d70f067
+      internalID: 102156354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_22
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1796
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c8c7edaa58d4cca85d56045d924e01
+      internalID: -799401518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_23
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1796
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49dde16234274996bb68c6295f8f0e9
+      internalID: 855048343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_24
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1796
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ce8b2912464773880dff020abc877
+      internalID: 898893586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_25
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1795
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74586fe830e04e9d829777cdad9723a
+      internalID: 960458360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_26
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1796
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3850b913f7a0c466bac4e5c401f1a064
+      internalID: 2136770087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_27
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1796
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f231fd633d8cc403b9a900959b3fc20c
+      internalID: -1211949866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1670
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9717114dd5441209a17ced14e391d3
+      internalID: 259960969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1670
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b4dd89a0c214cec98c5c6b7b9ce7e9
+      internalID: 2077620037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_30
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1698
+        width: 88
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e0a09c5e4d435a860f85b5a2fe1bb
+      internalID: -1024473731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1698
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecb4b33a63ac4a8093bab951a0a002c
+      internalID: -1533073779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1669
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63773d2f601745aea190cd207bc9314
+      internalID: -1869876496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_33
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1667
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb603da6a705412a96ad9e9356900a4
+      internalID: 1789590854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_34
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1671
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b77ce6061f240a0a111db52f6d03e4
+      internalID: -2104233200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_35
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1668
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34adf75f1a9a949b1a3c04b49c23c927
+      internalID: -33830614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_36
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1671
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a1f7bc6c3b487198fab5f893cc412
+      internalID: -1360969917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_37
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1667
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba5e2934d5747ad8ee2f78c0729dc1
+      internalID: 1916186231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_38
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1669
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b5d1bc966c4e7db856d71d555e406
+      internalID: -985813312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_39
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1670
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaed0bcac31541aca0f6d05d723bd84
+      internalID: -1072237339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_40
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1269
+        width: 478
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4991afffeafab42598b2450206dd59c4
+      internalID: 364593999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1542
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0616414688e140c5a321cfd64cad40d
+      internalID: -190674355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1542
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb5ad075f1a4d239f423f6522764a8
+      internalID: -1708127428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1542
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0c491fa966542dc8e1625b215646cf
+      internalID: 2048510884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_44
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1542
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fa06cf591a4afcb9837d9d2b4ada2
+      internalID: 2040248368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_45
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1541
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79f9c48c809e4bc5aba2deb9eb4fc8c
+      internalID: -796571406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_46
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1542
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b5a54aee9bf423b9bf4b2f47a095bc
+      internalID: 1778464636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_47
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1541
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861352850fdf4452886304428762e3f
+      internalID: -779776348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_48
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1542
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3f248957a641068e7f6c115388388
+      internalID: 1651452040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_49
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1550
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e83e38c5d91e4a0185ae02b7c3f59cb
+      internalID: -505339423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_50
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1550
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4b86519b574b6b86dfece745a6f79
+      internalID: 1623507151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_51
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1541
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb522dacb99144ec2a9b59b25e200ea8
+      internalID: 468151312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_52
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1543
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4e75b3407524e159ad2f4673c91a36
+      internalID: 654353764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1414
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43879039be84744aaaf610ff99c46bc6
+      internalID: -1740440564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1414
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd3838d4d30447939df7c3cb0425f2a
+      internalID: -113620217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_55
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1414
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed043af67c94e1fbfb507c2a1964f7
+      internalID: 805244133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1414
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d59dd87ffcd74b81829c5772d531042
+      internalID: 1463233479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_57
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1413
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aa93e0e358b418a944748ca0298f5b
+      internalID: -2076007188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_58
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1413
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7394a9c81974be3adec0f07794bfe8
+      internalID: -529622753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_59
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1413
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e3be53fdeed45ada100f6ede47c488
+      internalID: -136268205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_60
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1413
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c9204abe1284c52b9c57a1145024d4
+      internalID: 958741035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_61
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1413
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3b568d823bd4aa3b043978c03d9b65
+      internalID: 1447712130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_62
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1414
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c356dde75c5fc409bb0eab7326bf74ac
+      internalID: 1749907668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_63
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1414
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2d930d340a44296b9fbcdc458c01d0
+      internalID: -1820889045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1285
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1b8d060fb9b47268c6458c9c118420
+      internalID: 1869006031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_65
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1284
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11330d2f21fcc4861b2b3e08278014b9
+      internalID: 629080056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_66
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1285
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0653ce5e12f476990060618a02d710
+      internalID: 1181130846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1284
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f15333b18064a24a891a759ebaf555
+      internalID: 1350903951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_68
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1284
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03e24cea1854fc98fe6d73e4732c4e
+      internalID: 1855337022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_69
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1284
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636477602085846cdb99de9e5c7e94d2
+      internalID: 181325624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_70
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1285
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf3c8b13ef7443c989dd61f63ff5c52
+      internalID: -2105639822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_71
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1284
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd130b8fc1f840da92ef04ff8801db7
+      internalID: 1787269363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_72
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1285
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b231717386b41f990d7577a358a66a
+      internalID: -964032519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_73
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1284
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e782604cefc1402db1bdfeb7a83dbe7
+      internalID: -1659164858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_74
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1284
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb95f9160254d8e910b502bf4d604f
+      internalID: -2145139687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_75
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1284
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bc48a80ca244eaeb0f14b57f8c6a28
+      internalID: -707954657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1156
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f2f61ae88544152bf77033679955e1
+      internalID: 977398371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1157
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98125101ffaa431cbce340cc45718d7
+      internalID: 583170439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1157
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed9b88d43bef499185c729773112588
+      internalID: -832800614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_79
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1156
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c554f293b2fbb47c5bfc4766321b4ff7
+      internalID: -973007307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_80
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1157
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837522fb8e6924a27afe65f1e7ff1a35
+      internalID: 1751588885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_81
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1157
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a27090af6bf444fbdc38f6a1f949a7
+      internalID: -1956831209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_82
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1157
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990824e0393c40e1aeec546ac6d2b6e
+      internalID: 860850744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_83
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1156
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3859365f7db4c78b7fd683bff59f8b
+      internalID: -1935863253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_84
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1157
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba3e0eb3f91a4cbe9fa340151c9a364
+      internalID: 1781229538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_85
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1157
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12181a4face22421ab87a23ab29f05ae
+      internalID: 1437173030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_86
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1157
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268aa1813dd184a51a0d811a70b2c704
+      internalID: -1929974109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_87
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1157
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d985208b372c6473aa50d6ae0e4da422
+      internalID: -692076568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_88
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1032
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb59f0e571248e8ba19d67de393bd9
+      internalID: -1632474406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_89
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1032
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4672d9393800b4eb6a0d309bddd785e5
+      internalID: 1763356532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_90
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1027
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d199617438c7844b1856032711ae3e5e
+      internalID: -8857978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_91
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1049
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3253c7d35776e4effa25bdba2e37f85e
+      internalID: -135250045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_92
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1049
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a5f81560d174c78838e93bee7a6a2c
+      internalID: -1972895936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_93
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1032
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32246a89043cc42e1ab3b646060fc208
+      internalID: 622305106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_94
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1032
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950d7214bbb64aa0ba30ad54a9bbf9e
+      internalID: 1553771269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_95
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1027
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6a64024d1744259c0e0b1aee7a2c4
+      internalID: -1012329100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_96
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1049
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1094d499e6c49b3815264079fd9183
+      internalID: -1434968701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_97
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1049
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79d07ddb49204ee7a7a57cb75ff57ca
+      internalID: 1756697115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_98
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1035
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f204f6eaa2c144f66859c72f99466cbd
+      internalID: 1276494222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_99
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1035
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b4ecfd6a414b55a8a8e02b9774ae5
+      internalID: -2026686699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_100
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1036
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12c7e14a0f164ce3817faae31a0a7f6
+      internalID: -842895203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_101
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1036
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f33a14e9cd4b2c95856488e1c7ecd
+      internalID: 1370565202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_102
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1035
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee3717e42884cb0b1dd519d19b287e
+      internalID: -1684238617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_103
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 901
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1a65807bb384d6c8f1f2b44cfd0cf5
+      internalID: -676100433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_104
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 900
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f86e43f1cdd5492a99f5d6ca2846762
+      internalID: -434285743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_105
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 899
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84443c223a9c148be9c1551e16b41898
+      internalID: -853964612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_106
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 900
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b43b0c25ed249078eb4a18f019e641
+      internalID: 549521585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_107
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 900
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7596c064300814cfc91f4bdc36367739
+      internalID: 464907815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_108
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 900
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ba4607b148f494fa45994a630d99d4
+      internalID: -1829091278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_109
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 900
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272d2e36b3bfd4b79a950c1150e3bc7d
+      internalID: 1259986945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_110
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 907
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3548cefd0e5e40fa8146c54d2b1c799
+      internalID: 749040392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_111
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 907
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d8649d04f64b1088d00c46937eba8
+      internalID: -1626030541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_112
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 907
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365541e4c6a5a4a25955b9fa94f6459b
+      internalID: 321886203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_113
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 907
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2264e66ae3004c2fa74f7745d09b870
+      internalID: -455416088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_114
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 907
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39503db150de74767b833aa5becc3023
+      internalID: -880820046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_115
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 907
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d1a43449f94b55b5263c2d76e43c2
+      internalID: -1880116085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_116
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 907
+        width: 114
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16debec99a4d41e192f2422f67f536c
+      internalID: 2126826648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_117
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 907
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585cbb6704ebc420eaa7d61f7f777a5b
+      internalID: -1009754704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_118
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 768
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37851c5e727aa494e89f7846e0520c50
+      internalID: -896539096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_119
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 768
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c41f75f412e343b88c671696728a2a0
+      internalID: -174038684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_120
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 768
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ee94b80f78247f49b7d33437176d33
+      internalID: -1040248335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_121
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 768
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a9be90c7174ffa965c7148b0fb612
+      internalID: -1864696735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_122
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 768
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81af7c3faa03148c494ea2b7065fbbf6
+      internalID: 426269574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_123
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 776
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c08675619214a70999cac41edd6966
+      internalID: -699474620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_124
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 768
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f93078e4882a43d68472cc1bc02d2ff
+      internalID: 1207416000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_125
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 768
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8772f2b00404969bcb63da58639a33
+      internalID: -1065736003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_126
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 773
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510b8970af48d479cb1e8b9ad70a8c68
+      internalID: -1623717686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_127
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 772
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3cb82494b154bdbb347a6ddfbd953e
+      internalID: -1715616984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_128
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 773
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc22d35027145490d8056cc26e780b80
+      internalID: -1279251847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_129
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 773
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b297bdc5205a4962a729e3b4e6d0cf9
+      internalID: 2090766326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_130
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 818
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33403e6d01c040908d55d0ec30040b0
+      internalID: -1036256760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_131
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 768
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d83a3975932847f88adca648f13d5d4
+      internalID: -1458554013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_132
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 768
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f560dae55d2348128958ddbcf0536d8
+      internalID: -1316382268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_133
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 768
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de51ec828f444007b67366ea0c64045
+      internalID: 627619695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_134
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 643
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d9b0f6fae4a47bdbbe9145f3aefdd3
+      internalID: -1970388300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_135
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 643
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16111d35c1b414151a0c20272f521a07
+      internalID: 1192929566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_136
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 643
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d43b756f8d483eb3170822b4c95ac
+      internalID: 217185681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_137
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 643
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15b1bafec1c46eab3b1fdec7d141c1
+      internalID: -847033245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_138
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 642
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf31f41bf824d1184d60b115d61d14
+      internalID: -571022602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_139
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 642
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5265b088405b647ac8f6539e2874994f
+      internalID: 295955787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_140
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 642
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400df761b22794d91b7bce588c518888
+      internalID: -469219342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_141
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 642
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b17dcd51ef1342e2a87ef4f606dbc10
+      internalID: -699776651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_142
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 642
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13787de9659c44cfcae7222abf482baa
+      internalID: 1812492764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_143
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 642
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70749853d2b18427da25d4935a0ad55c
+      internalID: 1684907154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_144
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 641
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f79e0ca09f97436a8c0ea7db4baf021
+      internalID: 1042833580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_145
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 641
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfad63fff04254c6fb147ff6682e4b9d
+      internalID: -1826268053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_146
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 641
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd328b99c6b446780243635a9ef69d
+      internalID: -798524567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_147
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 641
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0718f9916c6463983babff66a311c2
+      internalID: -468598130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_148
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 641
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a13b0ef095ce44518b0cb9af108bacd
+      internalID: -1289487506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_149
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 641
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5548c576548b74b96ae4f7de3cdbcec8
+      internalID: 1003446137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_150
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 528
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f003976f8ab4c098b3f596fc154b44
+      internalID: -733107890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_151
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 520
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f824e2477b5e44fc5a0445208eab833f
+      internalID: 30992165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_152
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 525
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e753f9d4594e4462ea14e8a04e5c3661
+      internalID: -484412095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_153
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 525
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253e6c074b8e146a0aec036ed982e22d
+      internalID: -96720141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_154
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 518
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc9586db44c044e4911e0215b0b9694
+      internalID: -64456379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_155
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 518
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ccad529b894d0f9f32db1ea85aefb
+      internalID: 123383859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_156
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 518
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec42a88a39a74a019fb7f2dd5d2a8c6
+      internalID: -1561963501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_157
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 518
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60291229720f34b7bac073473b09928c
+      internalID: 799790293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_158
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 517
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0932bb9a3c24a4ece91966e6316fe0bb
+      internalID: -324720954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_159
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 518
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9ac9d18a7b04c7ebe001cd1c402c98
+      internalID: 1178910559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_160
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 525
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c218a0d96e4cf4dd284c96de10859124
+      internalID: -1780841903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_161
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 384
+        width: 24
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b0bd0ae2614d8dbeb60e97361b96f
+      internalID: -218269845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_162
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 460
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d26d1dbcb274a7c8d0d7121810c39a
+      internalID: 1145787583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_163
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 436
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7035feb257e274c57bc8bb08f2bf4208
+      internalID: 2001557826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_164
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 412
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c82b48fb123346c0a4ee4fc6746c6b8
+      internalID: 2047632272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_165
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 388
+        width: 48
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47be49b9fafe418cbc8e42b5dd29fa1
+      internalID: -747811406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_166
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 392
+        width: 24
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a29a53e36234cbeb2bb32d11ba5da1
+      internalID: -306215898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_167
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 392
+        width: 24
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24048b9ac2e924b969b5d9f03dcc315e
+      internalID: -215728485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_168
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 418
+        width: 24
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9af048517044f1e827fdc1b223e015
+      internalID: 1106637238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_169
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 450
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad129097180d4ba281c68bef63c809d
+      internalID: -1579314179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_170
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 474
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdae387428ec41d3a0c9e2706f527eb
+      internalID: 1813432008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_171
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 415
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da30985b7eed448790259f1275464f8
+      internalID: 1332813606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_172
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 402
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546526783a9b44de9ab838aa4ad758e5
+      internalID: -393347501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_173
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 498
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fda812cf84c4ad4833b1885f2f10c2
+      internalID: -274201724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_174
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 389
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bac358b8ecd482aa294ad5e60d4a1b
+      internalID: -1751337577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_175
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 412
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bcfac141a974205b1655ffe73294d9
+      internalID: 972532604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_176
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 412
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedd7f88fa1424b4c91a948f0b2ea1a8
+      internalID: -306579937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_177
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 411
+        width: 126
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998fe1b628074849a938787a115a1bc
+      internalID: -666486138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_178
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 320
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7652228451d4209b717e341e1e086c
+      internalID: 1097133266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_179
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 320
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37737e13b0ab4af0a4edf1d4bbe99c2
+      internalID: -2116855863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_180
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 324
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b1388ffeb74aed97e9015cb2a50fc
+      internalID: -60723950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_181
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4005c6b2a745242dead44047e20513fe
+      internalID: -1726854314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_182
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 324
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194bd8d1ad68c49dca2f71f63c8e76b7
+      internalID: -146735544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_183
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 316
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e478f9eca1484eba1654ebb347954
+      internalID: -990305964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_184
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 316
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf98d6c424aa4dd8ab5fcea5c910dd2
+      internalID: 1181940581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_185
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 327
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1286e4e06632d4dcd905b575b47b2a42
+      internalID: -1345100063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_186
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d158a2d34591044f2aafc570351c4e2d
+      internalID: -1303630020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_187
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 327
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c571fa7fda17546b69cdf837027170e3
+      internalID: 1002737151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_188
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 313
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f892fb8666e4047d2b0c91ffdfa06cba
+      internalID: -227457718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_189
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 313
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3555c0148854186a3a9e096ccd8b65
+      internalID: 1026463431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_190
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 326
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d426467d99d7d47a994ddf460d1d1ce7
+      internalID: 1664953285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_191
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d56d13fb924422b6cbe743ff7c2b7
+      internalID: 1756947129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_192
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 326
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f950080d1e946649e40e6f623e14f1
+      internalID: 1467383610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_193
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 326
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366c5d7107424190aec0d6301cfa189
+      internalID: -1706599060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_194
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e80cd3f7bde4deebae8eee1a98928b
+      internalID: 995042866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_195
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 326
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16aff96cd8ca41ebab24508e5b91c0d
+      internalID: -1192462533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_196
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 312
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0888dc5e134543be89163f625a6c5
+      internalID: -1944507465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_197
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 312
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed28a83d0172452abc53400bce5c132
+      internalID: -1862161645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_198
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 327
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa6995379e2467e8270e5134591ed6
+      internalID: 398193892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_199
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fce4b59a63d4e3d88f7ee1e038d967
+      internalID: 2093117242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_200
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 327
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8972eb4da0c4dcd94d4af48658bf47
+      internalID: 1134420894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_201
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 313
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ebf4326d9fb4f58956e40716475d8c
+      internalID: 347892211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_202
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 292
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414accfcc87af4778b14a764ad877322
+      internalID: 962240458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_203
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 322
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80ecd96598504c2a937e1198f102978
+      internalID: 1430132417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_204
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 322
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee18c765cc134ab1b8fe7dbd0379808
+      internalID: 902373606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_205
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 321
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6451e4e5b27e34dd8803b97e725904ef
+      internalID: 390372082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_206
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 321
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077cf75e0e08e417f977b0c9ab1bbe66
+      internalID: 1015063929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_207
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 311
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ee67cbd9d74303b6aca4ce7096933
+      internalID: -1931249297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_208
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 311
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb4a3517d0e14744b44f9fb6791e1bf
+      internalID: -746947334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_209
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 315
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f8255ecb81453985962963f9dd641
+      internalID: -754898450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_210
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 315
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40649b22739cb44dab73c461a5d2c39c
+      internalID: -505838685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_211
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 312
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d3611d52ed341a7b9ca8a7d5a91271
+      internalID: 195087182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_212
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 312
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ba391c74d08488caeb9c7c01922475
+      internalID: 1108608215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_213
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 317
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193893daa725e419aad9f7800404442b
+      internalID: 1654993885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_214
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 317
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e39cd75c3448d78a429b375642570
+      internalID: -2103073196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_215
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 320
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6fd4ea11e4e4c9c9618edaa67152d3
+      internalID: 187128205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_216
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 320
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c9a6eabb20e47f5aa25a33ab558c75
+      internalID: -1377744438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_217
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 320
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da44a8e816ba8486fad055a7ab3943ff
+      internalID: -663228095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_218
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 316
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5307de04e3143dfa96763ed6ee08e8
+      internalID: 1490346806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_219
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 316
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9fb2357eea64e49b93a70587cc0e58
+      internalID: 660497357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_220
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 304
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129738613a4854522aec468ca47b33fb
+      internalID: 598787278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_221
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 316
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb69aeb83dc4f2aa5a41895b6a259c
+      internalID: 973032625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_222
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31e22739b2304c2e99bdddcf92cae95
+      internalID: -511622727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_223
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 305
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805de33d07fa14963bbb3ed12ea82485
+      internalID: -835317395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_224
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 304
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3022123403e46f28fdab68f2372217
+      internalID: -569718506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_225
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 310
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfe6f74846f74deca73c99152aba67c
+      internalID: 1607700909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_226
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 310
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8f3cfc26914bdfb8b6f8b1436807e
+      internalID: -415613439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_227
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 304
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1fecf8f7e2d4b0ba37c82ef6ca6564
+      internalID: -287243724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_228
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 305
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1497dfbc6a86458d9894f26f593fd17
+      internalID: 191647177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_229
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 318
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e795f26b725a4209ad5f137104339b3
+      internalID: 566603552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_230
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 304
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d586c5d6e91174a4ea471cd532d222e0
+      internalID: -187709454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_231
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 304
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb21608c3e4473f8739bf23650c362
+      internalID: 721066430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_232
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 317
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e3ec7a2aa3406e881ac4cdea09f90
+      internalID: -1959955137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_233
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7926c72f154b4467f997d7ba6f0e5eec
+      internalID: -807350081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_234
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceff9f78791d4fa29745de86e83665c
+      internalID: -1512868117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_235
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 316
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f63e8a0b2b94eb7b9997aafdab8fdb
+      internalID: -981547459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_236
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 316
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d5febdec79f4d5296c5d91b170a9c6
+      internalID: -20490695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_237
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708cb1c594ba84860806f01ae8acd6ad
+      internalID: 85610348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_238
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 299
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64dcb97ecca341438cdb6fa17f283d1
+      internalID: -1724709884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_239
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 302
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6b9c1678964500ac1e89e25d70db9
+      internalID: 2103170158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_240
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 295
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b582287ed5a4f0496ed6a34e6360d5
+      internalID: -1517347552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_241
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 309
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09921b3a75a39434990a1212145f0cca
+      internalID: 1006924571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_242
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 306
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dc3979da08444659b0632d162aff92
+      internalID: 1034238491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_243
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 308
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3670f0525e7480da10eaf52076b9bb
+      internalID: -1033594509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_244
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 300
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905d4b4f5d6dd4b8bb9bf17518322224
+      internalID: -610571682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_245
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 299
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a6bcafd804c4214bc6c979fe18e93c
+      internalID: 1888521717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_246
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 307
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c3758026680435c88af1f956f86ab3
+      internalID: 1461984830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_247
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 308
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7371d0f50b5c04d5cae5e569a220d4ec
+      internalID: 787372509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_248
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 295
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc0f645ac57b4f7fbc9b76594e9a7cd
+      internalID: -117789312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_249
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 299
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6800dbdd3d8224fb09aa4428a0fddf1a
+      internalID: 1886803167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_250
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 298
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881db73807d3642abb9c712d86847132
+      internalID: -1937114929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_251
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 295
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03e3b94ec9a42bfbae0360e1c98bab
+      internalID: 1131585539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_252
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 292
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af85ad212e034dab98cc5a9b2dbe210
+      internalID: -748270796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_253
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 289
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c3f2d3863b5498e8b5674e15ce3993
+      internalID: -2003418079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_254
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b3ded4f20c749d49e84ecc66d5a5c6
+      internalID: 895157657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_255
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 300
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967f1828f12434992a5031c19f0a7a47
+      internalID: 290799769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_256
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 290
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e0ea5cd51a4d57a7ecd50c166ff39
+      internalID: -538608054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_257
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 293
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381eb6db7a164e429c55a19ddd0421c
+      internalID: 786103975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_258
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 291
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f592d8330b30f4e01893120c017b0174
+      internalID: 1331378910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_259
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 287
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299be60bdd11e467397d8280bf09b2ba
+      internalID: 1931824771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_260
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 283
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec109c9fbb344a9faa85e27c8d687ea
+      internalID: -243518125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_261
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 132
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e9440d150504225ae9ab41ba2e0cc8
+      internalID: -70726427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_262
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 132
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c746559b8a4299985030b18bd0e85
+      internalID: 1640277124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_263
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 132
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d875989a8ae4924bb0e19ac02e7d88
+      internalID: -1692229010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_264
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 132
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9abef8fe851c4b9eb8ecd32ce6a9b94
+      internalID: 576311218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_265
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 133
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a3255444fd42068f56b5de3649e07
+      internalID: -582153893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_266
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 132
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a4faf752ba42dc9696c604f122562
+      internalID: -1472647972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_267
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 132
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbb3d7fcf78b43cebdd0ffda6e2d0e7
+      internalID: 98782899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_268
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 133
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2b98f15cdeb40dc8eaaaf1b4945ece
+      internalID: 924746128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurk_269
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1694
+        width: 325
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd3b750039b43e3bd7b25b8dee4670
+      internalID: -634435982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +5815,277 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hurk_0: 384300851
+      Hurk_1: -68190962
+      Hurk_10: 1141352296
+      Hurk_100: -842895203
+      Hurk_101: 1370565202
+      Hurk_102: -1684238617
+      Hurk_103: -676100433
+      Hurk_104: -434285743
+      Hurk_105: -853964612
+      Hurk_106: 549521585
+      Hurk_107: 464907815
+      Hurk_108: -1829091278
+      Hurk_109: 1259986945
+      Hurk_11: 692725073
+      Hurk_110: 749040392
+      Hurk_111: -1626030541
+      Hurk_112: 321886203
+      Hurk_113: -455416088
+      Hurk_114: -880820046
+      Hurk_115: -1880116085
+      Hurk_116: 2126826648
+      Hurk_117: -1009754704
+      Hurk_118: -896539096
+      Hurk_119: -174038684
+      Hurk_12: -1005227954
+      Hurk_120: -1040248335
+      Hurk_121: -1864696735
+      Hurk_122: 426269574
+      Hurk_123: -699474620
+      Hurk_124: 1207416000
+      Hurk_125: -1065736003
+      Hurk_126: -1623717686
+      Hurk_127: -1715616984
+      Hurk_128: -1279251847
+      Hurk_129: 2090766326
+      Hurk_13: 1445443943
+      Hurk_130: -1036256760
+      Hurk_131: -1458554013
+      Hurk_132: -1316382268
+      Hurk_133: 627619695
+      Hurk_134: -1970388300
+      Hurk_135: 1192929566
+      Hurk_136: 217185681
+      Hurk_137: -847033245
+      Hurk_138: -571022602
+      Hurk_139: 295955787
+      Hurk_14: -1232332813
+      Hurk_140: -469219342
+      Hurk_141: -699776651
+      Hurk_142: 1812492764
+      Hurk_143: 1684907154
+      Hurk_144: 1042833580
+      Hurk_145: -1826268053
+      Hurk_146: -798524567
+      Hurk_147: -468598130
+      Hurk_148: -1289487506
+      Hurk_149: 1003446137
+      Hurk_15: -25886202
+      Hurk_150: -733107890
+      Hurk_151: 30992165
+      Hurk_152: -484412095
+      Hurk_153: -96720141
+      Hurk_154: -64456379
+      Hurk_155: 123383859
+      Hurk_156: -1561963501
+      Hurk_157: 799790293
+      Hurk_158: -324720954
+      Hurk_159: 1178910559
+      Hurk_16: 1324275158
+      Hurk_160: -1780841903
+      Hurk_161: -218269845
+      Hurk_162: 1145787583
+      Hurk_163: 2001557826
+      Hurk_164: 2047632272
+      Hurk_165: -747811406
+      Hurk_166: -306215898
+      Hurk_167: -215728485
+      Hurk_168: 1106637238
+      Hurk_169: -1579314179
+      Hurk_17: -1089396772
+      Hurk_170: 1813432008
+      Hurk_171: 1332813606
+      Hurk_172: -393347501
+      Hurk_173: -274201724
+      Hurk_174: -1751337577
+      Hurk_175: 972532604
+      Hurk_176: -306579937
+      Hurk_177: -666486138
+      Hurk_178: 1097133266
+      Hurk_179: -2116855863
+      Hurk_18: -1160933350
+      Hurk_180: -60723950
+      Hurk_181: -1726854314
+      Hurk_182: -146735544
+      Hurk_183: -990305964
+      Hurk_184: 1181940581
+      Hurk_185: -1345100063
+      Hurk_186: -1303630020
+      Hurk_187: 1002737151
+      Hurk_188: -227457718
+      Hurk_189: 1026463431
+      Hurk_19: 68815714
+      Hurk_190: 1664953285
+      Hurk_191: 1756947129
+      Hurk_192: 1467383610
+      Hurk_193: -1706599060
+      Hurk_194: 995042866
+      Hurk_195: -1192462533
+      Hurk_196: -1944507465
+      Hurk_197: -1862161645
+      Hurk_198: 398193892
+      Hurk_199: 2093117242
+      Hurk_2: 170357844
+      Hurk_20: 1089018040
+      Hurk_200: 1134420894
+      Hurk_201: 347892211
+      Hurk_202: 962240458
+      Hurk_203: 1430132417
+      Hurk_204: 902373606
+      Hurk_205: 390372082
+      Hurk_206: 1015063929
+      Hurk_207: -1931249297
+      Hurk_208: -746947334
+      Hurk_209: -754898450
+      Hurk_21: 102156354
+      Hurk_210: -505838685
+      Hurk_211: 195087182
+      Hurk_212: 1108608215
+      Hurk_213: 1654993885
+      Hurk_214: -2103073196
+      Hurk_215: 187128205
+      Hurk_216: -1377744438
+      Hurk_217: -663228095
+      Hurk_218: 1490346806
+      Hurk_219: 660497357
+      Hurk_22: -799401518
+      Hurk_220: 598787278
+      Hurk_221: 973032625
+      Hurk_222: -511622727
+      Hurk_223: -835317395
+      Hurk_224: -569718506
+      Hurk_225: 1607700909
+      Hurk_226: -415613439
+      Hurk_227: -287243724
+      Hurk_228: 191647177
+      Hurk_229: 566603552
+      Hurk_23: 855048343
+      Hurk_230: -187709454
+      Hurk_231: 721066430
+      Hurk_232: -1959955137
+      Hurk_233: -807350081
+      Hurk_234: -1512868117
+      Hurk_235: -981547459
+      Hurk_236: -20490695
+      Hurk_237: 85610348
+      Hurk_238: -1724709884
+      Hurk_239: 2103170158
+      Hurk_24: 898893586
+      Hurk_240: -1517347552
+      Hurk_241: 1006924571
+      Hurk_242: 1034238491
+      Hurk_243: -1033594509
+      Hurk_244: -610571682
+      Hurk_245: 1888521717
+      Hurk_246: 1461984830
+      Hurk_247: 787372509
+      Hurk_248: -117789312
+      Hurk_249: 1886803167
+      Hurk_25: 960458360
+      Hurk_250: -1937114929
+      Hurk_251: 1131585539
+      Hurk_252: -748270796
+      Hurk_253: -2003418079
+      Hurk_254: 895157657
+      Hurk_255: 290799769
+      Hurk_256: -538608054
+      Hurk_257: 786103975
+      Hurk_258: 1331378910
+      Hurk_259: 1931824771
+      Hurk_26: 2136770087
+      Hurk_260: -243518125
+      Hurk_261: -70726427
+      Hurk_262: 1640277124
+      Hurk_263: -1692229010
+      Hurk_264: 576311218
+      Hurk_265: -582153893
+      Hurk_266: -1472647972
+      Hurk_267: 98782899
+      Hurk_268: 924746128
+      Hurk_269: -634435982
+      Hurk_27: -1211949866
+      Hurk_28: 259960969
+      Hurk_29: 2077620037
+      Hurk_3: 810918757
+      Hurk_30: -1024473731
+      Hurk_31: -1533073779
+      Hurk_32: -1869876496
+      Hurk_33: 1789590854
+      Hurk_34: -2104233200
+      Hurk_35: -33830614
+      Hurk_36: -1360969917
+      Hurk_37: 1916186231
+      Hurk_38: -985813312
+      Hurk_39: -1072237339
+      Hurk_4: -342226165
+      Hurk_40: 364593999
+      Hurk_41: -190674355
+      Hurk_42: -1708127428
+      Hurk_43: 2048510884
+      Hurk_44: 2040248368
+      Hurk_45: -796571406
+      Hurk_46: 1778464636
+      Hurk_47: -779776348
+      Hurk_48: 1651452040
+      Hurk_49: -505339423
+      Hurk_5: -1205554598
+      Hurk_50: 1623507151
+      Hurk_51: 468151312
+      Hurk_52: 654353764
+      Hurk_53: -1740440564
+      Hurk_54: -113620217
+      Hurk_55: 805244133
+      Hurk_56: 1463233479
+      Hurk_57: -2076007188
+      Hurk_58: -529622753
+      Hurk_59: -136268205
+      Hurk_6: 965252848
+      Hurk_60: 958741035
+      Hurk_61: 1447712130
+      Hurk_62: 1749907668
+      Hurk_63: -1820889045
+      Hurk_64: 1869006031
+      Hurk_65: 629080056
+      Hurk_66: 1181130846
+      Hurk_67: 1350903951
+      Hurk_68: 1855337022
+      Hurk_69: 181325624
+      Hurk_7: -1184598869
+      Hurk_70: -2105639822
+      Hurk_71: 1787269363
+      Hurk_72: -964032519
+      Hurk_73: -1659164858
+      Hurk_74: -2145139687
+      Hurk_75: -707954657
+      Hurk_76: 977398371
+      Hurk_77: 583170439
+      Hurk_78: -832800614
+      Hurk_79: -973007307
+      Hurk_8: -1336626506
+      Hurk_80: 1751588885
+      Hurk_81: -1956831209
+      Hurk_82: 860850744
+      Hurk_83: -1935863253
+      Hurk_84: 1781229538
+      Hurk_85: 1437173030
+      Hurk_86: -1929974109
+      Hurk_87: -692076568
+      Hurk_88: -1632474406
+      Hurk_89: 1763356532
+      Hurk_9: -116713650
+      Hurk_90: -8857978
+      Hurk_91: -135250045
+      Hurk_92: -1972895936
+      Hurk_93: 622305106
+      Hurk_94: 1553771269
+      Hurk_95: -1012329100
+      Hurk_96: -1434968701
+      Hurk_97: 1756697115
+      Hurk_98: 1276494222
+      Hurk_99: -2026686699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

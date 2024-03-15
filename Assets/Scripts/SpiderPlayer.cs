@@ -33,6 +33,14 @@ public class SpiderPlayer : MonoBehaviour
         
         timeSinceLastShot += Time.deltaTime;
         
+        if(Input.GetMouseButtonDown(0) && timeSinceLastShot >= shotCooldown)
+        {
+            int motionIndex = Random.Range(0, 3);
+            Debug.Log("Motion Index: " + motionIndex);
+            anim.SetInteger("ShotMotion", motionIndex);    
+            anim.SetBool("Shot", true);
+            Shot();
+        }
 
         if(Input.GetKey(KeyCode.Space) && timeSinceLastShot >= shotCooldown)
         {

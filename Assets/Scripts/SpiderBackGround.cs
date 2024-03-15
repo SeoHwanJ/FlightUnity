@@ -10,9 +10,9 @@ public class SpiderBackGround : MonoBehaviour
     {
         // Move the background down
         transform.Translate(Vector3.left * moveSpeed * Time.deltaTime);
-        if(transform.position.x <= -18.09f)
+        if(transform.position.x <= -10f)
         {
-            transform.position = new Vector3(18.09f, transform.position.y, transform.position.z);
+            transform.position = new Vector3(12.48f, transform.position.y, transform.position.z);
         }
            
     }

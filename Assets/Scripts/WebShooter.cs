@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class WebShooter : MonoBehaviour
 {
      [SerializeField]
     private float moveSpeed =10f;
+    public float damage = 1f;
     // Start is called before the first frame update
     void Start()
     {
