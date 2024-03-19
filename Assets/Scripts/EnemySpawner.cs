@@ -6,7 +6,7 @@ public class EnemySpawner : MonoBehaviour
 {
     [SerializeField]
     private GameObject[] enemies;
-    private float[] arrPosX = {-2.2f, -1.1f, 0, 1.1f, 2.2f};
+    private float[] arrPosX = {-1.8f, -0.9f, 0, 0.9f, 1.8f};
 
 
     private float spawnInterval = 1.5f;
